@@ -1,5 +1,5 @@
-# learnig-react
-Aprendizaje de React
+# learnig-reactjs
+Aprendizaje de Reactjs
 
 Ubicación de la documentación
 
