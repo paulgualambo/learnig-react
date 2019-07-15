@@ -6,3 +6,5 @@ Ubicación de la documentación: https://docs.google.com/document/d/1RLHuoj4JIV0
 Proyectos a realizar:
 
 CRUD con una API REST
+
+UTilizaremos Visual Code
